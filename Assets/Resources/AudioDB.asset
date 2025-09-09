@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 926e5a5cd77025040b31833d4293f9c4, type: 3}
+  m_Name: AudioDB
+  m_EditorClassIdentifier: 
+  audioPathList:
+  - audioId: -1867207812
+    path: AudioAssets/BGM
+  - audioId: -2099206849
+    path: AudioAssets/BreakWall
+  - audioId: -938475033
+    path: AudioAssets/CarRev
+  - audioId: 1842535742
+    path: AudioAssets/Cheer
+  - audioId: -925474383
+    path: AudioAssets/EngineLoop
+  - audioId: -581670595
+    path: AudioAssets/GO
+  - audioId: 1063853840
+    path: AudioAssets/Jump
+  - audioId: -956879279
+    path: AudioAssets/Land
+  - audioId: 76793226
+    path: AudioAssets/MenuClick
+  - audioId: -843588121
+    path: AudioAssets/Miss
+  - audioId: 1618259060
+    path: AudioAssets/Roadblock
+  - audioId: -853997857
+    path: AudioAssets/SpeedUp
+  - audioId: -145782529
+    path: AudioAssets/Tap4
